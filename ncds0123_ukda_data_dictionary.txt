@@ -856,48 +856,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 7.0	Label = V
 	Value = -1.0	Label = NA
 
-Pos. = 57	Variable = n1831	Variable label = 0 Illness noted in PMS-MC 1:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1831
-	Value = 1.0	Label = Rh incompatible
-	Value = 2.0	Label = Severe jaundice
-	Value = 3.0	Label = Convulsions etc.
-	Value = 4.0	Label = Congen malform
-	Value = 5.0	Label = Hypothermia
-	Value = 7.0	Label = Respiratory
-	Value = 8.0	Label = Infection-misc.
-	Value = 9.0	Label = Pyloric stenosis
-	Value = -1.0	Label = None of above,NA
-	Value = -2.0	Label = No PMS
-
-Pos. = 58	Variable = n1832	Variable label = 0 Illness noted in PMS-MC 2:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n1832
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Rh incompatible
-	Value = 2.0	Label = Severe jaundice
-	Value = 3.0	Label = Convulsions etc.
-	Value = 4.0	Label = Any-congenital
-	Value = 5.0	Label = Hypothermia
-	Value = 7.0	Label = Respiratory
-	Value = 8.0	Label = Infection-misc.
-	Value = 9.0	Label = Pyloric stenosis
-	Value = -1.0	Label = NA,Inapplicable
-
-Pos. = 59	Variable = n1833	Variable label = 0 Illness noted in PMS-MC 3:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n1833
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Rh incompatible
-	Value = 2.0	Label = Severe jaundice
-	Value = 3.0	Label = Convulsions etc.
-	Value = 4.0	Label = Any-congenital
-	Value = 5.0	Label = Hypothermia
-	Value = 7.0	Label = Respiratory
-	Value = 8.0	Label = Infection-misc.
-	Value = 9.0	Label = Pyloric stenosis
-	Value = -1.0	Label = NA,Inapplicable
 
 Pos. = 60	Variable = n505	Variable label = 0 Previous abortions or ectopics
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -2256,23 +2214,7 @@ SPSS user missing values = -1.0 thru None
 	Value = 3.0	Label = No
 	Value = -1.0	Label = NA
 
-Pos. = 197	Variable = n274	Variable label = 1P Fit or convulsion in 1st year of life
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n274
-	Value = 1.0	Label = Dont know
-	Value = 2.0	Label = Yes
-	Value = 3.0	Label = No
-	Value = -1.0	Label = NA
 
-Pos. = 198	Variable = n275	Variable label = 1P Fit or convulsion after 1st year
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n275
-	Value = 1.0	Label = Dont know
-	Value = 2.0	Label = Yes
-	Value = 3.0	Label = No
-	Value = -1.0	Label = NA
 
 Pos. = 199	Variable = n276	Variable label = 1P Petit mal or blank spells
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -3353,59 +3295,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 5.0	Label = V sev impairment
 	Value = -1.0	Label = NA
 
-Pos. = 316	Variable = n390	Variable label = 1M Reason for Special Education MC1:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n390
-	Value = 1.0	Label = Delicate
-	Value = 2.0	Label = Speech defect
-	Value = 3.0	Label = Dont know
-	Value = 4.0	Label = No
-	Value = 5.0	Label = Blind
-	Value = 6.0	Label = Partial sighted
-	Value = 7.0	Label = Deaf
-	Value = 8.0	Label = Partial hearing
-	Value = 9.0	Label = ESN
-	Value = 10.0	Label = Epileptic
-	Value = 11.0	Label = Maladjusted
-	Value = 12.0	Label = Phys handicapped
-	Value = -1.0	Label = NA, Sev Subnorm
-
-Pos. = 317	Variable = n391	Variable label = 1M Reason for Special Education MC2:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n391
-	Value = 0.0	Label = No 2nd,3rd hndcp
-	Value = 1.0	Label = Delicate
-	Value = 2.0	Label = Speech defect
-	Value = 3.0	Label = Dont know
-	Value = 4.0	Label = No
-	Value = 5.0	Label = Blind
-	Value = 6.0	Label = Partial sighted
-	Value = 7.0	Label = Deaf
-	Value = 8.0	Label = Partial hearing
-	Value = 9.0	Label = ESN
-	Value = 10.0	Label = Epileptic
-	Value = 11.0	Label = Maladjusted
-	Value = 12.0	Label = Phys handicapped
-	Value = -1.0	Label = NA,Inapplicable
-
-Pos. = 318	Variable = n392	Variable label = 1M Reason for Special Education MC3:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n392
-	Value = 0.0	Label = No 3rd handicap
-	Value = 1.0	Label = Delicate
-	Value = 2.0	Label = Speech defect
-	Value = 3.0	Label = Dont know
-	Value = 4.0	Label = No
-	Value = 5.0	Label = Blind
-	Value = 6.0	Label = Partial sighted
-	Value = 7.0	Label = Deaf
-	Value = 8.0	Label = Partial hearing
-	Value = 9.0	Label = ESN
-	Value = 10.0	Label = Epileptic
-	Value = 11.0	Label = Maladjusted
-	Value = 12.0	Label = Phys handicapped
-	Value = -1.0	Label = NA,Inapplicable
 
 Pos. = 319	Variable = n397	Variable label = 1M Spec educn treatment,spec school
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -5745,80 +5634,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 7.0	Label = Does not attend
 	Value = -1.0	Label = NA
 
-Pos. = 536	Variable = n1321	Variable label = 2P Reason for absence from school-MC 1:5
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1321
-	Value = 1.0	Label = Cold,sore throat
-	Value = 2.0	Label = Bronchitis etc
-	Value = 3.0	Label = Asthma etc
-	Value = 4.0	Label = Abdominal pain
-	Value = 5.0	Label = Headaches
-	Value = 6.0	Label = Infectious dis
-	Value = 7.0	Label = Accident,injury
-	Value = 8.0	Label = Convulsions
-	Value = 9.0	Label = Other disorders
-	Value = -1.0	Label = NA,Inapplicable
-
-Pos. = 537	Variable = n1322	Variable label = 2P Reason for absence from school-MC 2:5
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n1322
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Cold,sore throat
-	Value = 2.0	Label = Bronchitis etc
-	Value = 3.0	Label = Asthma etc
-	Value = 4.0	Label = Abdominal pain
-	Value = 5.0	Label = Headaches
-	Value = 6.0	Label = Infectious dis
-	Value = 7.0	Label = Accident,injury
-	Value = 8.0	Label = Convulsions
-	Value = 9.0	Label = Other disorders
-	Value = -1.0	Label = NA
-
-Pos. = 538	Variable = n1323	Variable label = 2P Reason for absence from school-MC 3:5
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n1323
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Cold,sore throat
-	Value = 2.0	Label = Bronchitis etc
-	Value = 3.0	Label = Asthma etc
-	Value = 4.0	Label = Abdominal pain
-	Value = 5.0	Label = Headaches
-	Value = 6.0	Label = Infectious dis
-	Value = 7.0	Label = Accident,injury
-	Value = 8.0	Label = Convulsions
-	Value = 9.0	Label = Other disorders
-	Value = -1.0	Label = NA
-
-Pos. = 539	Variable = n1324	Variable label = 2P Reason for absence from school-MC 4:5
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n1324
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Cold,sore throat
-	Value = 2.0	Label = Bronchitis etc
-	Value = 3.0	Label = Asthma etc
-	Value = 4.0	Label = Abdominal pain
-	Value = 5.0	Label = Headaches
-	Value = 6.0	Label = Infectious dis
-	Value = 7.0	Label = Accident,injury
-	Value = 8.0	Label = Convulsions
-	Value = 9.0	Label = Other disorders
-	Value = -1.0	Label = NA
-
-Pos. = 540	Variable = n1325	Variable label = 2P Reason for absence from school-MC 5:5
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n1325
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Cold,sore throat
-	Value = 2.0	Label = Bronchitis etc
-	Value = 3.0	Label = Asthma etc
-	Value = 4.0	Label = Abdominal pain
-	Value = 5.0	Label = Headaches
-	Value = 6.0	Label = Infectious dis
-	Value = 7.0	Label = Accident,injury
-	Value = 8.0	Label = Convulsions
-	Value = 9.0	Label = Other disorders
-	Value = -1.0	Label = NA
 
 Pos. = 541	Variable = n1305	Variable label = 2P Ever asthma or wheezy bronchitis
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -5842,56 +5657,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 6.0	Label = Other replies
 	Value = -1.0	Label = NA,Inapplicable
 
-Pos. = 543	Variable = n1307	Variable label = 2P Has child had epilepsy attacks-MC 1:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1307
-	Value = 1.0	Label = Major convulsion
-	Value = 2.0	Label = Minor.petit mal
-	Value = 3.0	Label = Other or mixed
-	Value = 4.0	Label = Fainting etc.
-	Value = 5.0	Label = Other attacks
-	Value = 6.0	Label = None at all
-	Value = 7.0	Label = Dont know
-	Value = -1.0	Label = NA
-
-Pos. = 544	Variable = n1308	Variable label = 2P Has child had epilepsy attacks-MC 2:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n1308
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Major convulsion
-	Value = 2.0	Label = Minor,petit mal
-	Value = 3.0	Label = Other or mixed
-	Value = 4.0	Label = Fainting etc.
-	Value = 5.0	Label = Other attacks
-	Value = 6.0	Label = None at all
-	Value = 7.0	Label = Dont know
-	Value = -1.0	Label = NA
-
-Pos. = 545	Variable = n1309	Variable label = 2P Has child had epilepsy attacks-MC 3:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n1309
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Major convulsion
-	Value = 2.0	Label = Minor,petit mal
-	Value = 3.0	Label = Other or mixed
-	Value = 4.0	Label = Fainting etc.
-	Value = 5.0	Label = Other attacks
-	Value = 6.0	Label = None at all
-	Value = 7.0	Label = Dont know
-	Value = -1.0	Label = NA
-
-Pos. = 546	Variable = n1314	Variable label = 2P Age at most recent epilepsy attack
-This variable is  numeric, the SPSS measurement level is NOMINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1314
-	Value = -1.0	Label = NA,Inapplicable
-
-Pos. = 547	Variable = n1317	Variable label = 2P Age at 1st epilepsy attack
-This variable is  numeric, the SPSS measurement level is NOMINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1317
-	Value = -1.0	Label = NA,Inapplicable
 
 Pos. = 548	Variable = n1332	Variable label = 2P Prescribed medicine last 3m M:C 1-5
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -5954,24 +5719,6 @@ This variable is  numeric, the SPSS measurement level is ORDINAL
 	Value = 6.0	Label = No treatment
 	Value = 7.0	Label = Do not know
 
-Pos. = 553	Variable = n1337	Variable label = 2P Reason for prescription  M:C 1-2
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1337
-	Value = 1.0	Label = Convulsions etc.
-	Value = 2.0	Label = Wheeziness etc.
-	Value = 3.0	Label = Diabetes
-	Value = 4.0	Label = Other reasons
-	Value = -1.0	Label = NA
-
-Pos. = 554	Variable = n1338	Variable label = 2P Reason for prescription  M:C 2-2
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n1338
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Convulsions etc.
-	Value = 2.0	Label = Wheeziness etc.
-	Value = 3.0	Label = Diabetes
-	Value = 4.0	Label = Other reasons
 
 Pos. = 555	Variable = n1341	Variable label = 2P In past year-any headaches-migraine
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -6240,16 +5987,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 5.0	Label = Both 2 & 3
 	Value = -1.0	Label = NA
 
-Pos. = 581	Variable = n1394	Variable label = 2P Ever seen specialist-convulsions,fits
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1394
-	Value = 1.0	Label = Never
-	Value = 2.0	Label = Outpatient only
-	Value = 3.0	Label = Inpatient
-	Value = 4.0	Label = Dont know
-	Value = 5.0	Label = Both 2 & 3
-	Value = -1.0	Label = NA
 
 Pos. = 582	Variable = n1395	Variable label = 2P Ever seen specialist - enuresis
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -7934,58 +7671,7 @@ SPSS user missing values = -1.0 thru None
 	Value = 5.0	Label = Dont know
 	Value = -1.0	Label = NA
 
-Pos. = 727	Variable = n1477	Variable label = 2M Reason for special education - MC1:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1477
-	Value = 1.0	Label = Blind
-	Value = 2.0	Label = Partial sighted
-	Value = 3.0	Label = Deaf
-	Value = 4.0	Label = Partial hearing
-	Value = 5.0	Label = ESN
-	Value = 6.0	Label = Sev Subnormal
-	Value = 7.0	Label = Epileptic
-	Value = 8.0	Label = Maladjusted
-	Value = 9.0	Label = Phys handicapped
-	Value = 10.0	Label = Speech defect
-	Value = 11.0	Label = Delicate
-	Value = -1.0	Label = NA,DNA
 
-Pos. = 728	Variable = n1478	Variable label = 2M Reason for special education - MC2:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1478
-	Value = 0.0	Label = No 2nd,3rd hndcp
-	Value = 1.0	Label = Blind
-	Value = 2.0	Label = Partial sight
-	Value = 3.0	Label = Deaf
-	Value = 4.0	Label = Partial hearing
-	Value = 5.0	Label = ESN
-	Value = 6.0	Label = Sev Subnormal
-	Value = 7.0	Label = Epileptic
-	Value = 8.0	Label = Maladjusted
-	Value = 9.0	Label = Phys handicapped
-	Value = 10.0	Label = Speech defect
-	Value = 11.0	Label = Delicate
-	Value = -1.0	Label = NA, DNA
-
-Pos. = 729	Variable = n1479	Variable label = 2M Reason for special education - MC3:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1479
-	Value = 0.0	Label = No 3rd handicap
-	Value = 1.0	Label = Blind
-	Value = 2.0	Label = Partial sight
-	Value = 3.0	Label = Deaf
-	Value = 4.0	Label = Partial hearing
-	Value = 5.0	Label = ESN
-	Value = 6.0	Label = Sev Subnormal
-	Value = 7.0	Label = Epileptic
-	Value = 8.0	Label = Maladjusted
-	Value = 9.0	Label = Phys handicapped
-	Value = 10.0	Label = Speech defect
-	Value = 11.0	Label = Delicate
-	Value = -1.0	Label = NA, DNA
 
 Pos. = 730	Variable = n1480	Variable label = 2M Has child ever had abnormal eye cond
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -8205,17 +7891,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 1.0	Label = No
 	Value = 2.0	Label = Yes
 	Value = 3.0	Label = Insuffic info
-	Value = -1.0	Label = NA
-
-Pos. = 749	Variable = n1502	Variable label = 2M Has child ever had convulsions
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1502
-	Value = 1.0	Label = No
-	Value = 2.0	Label = Yes, under 7yrs
-	Value = 3.0	Label = Yes, after 7yrs
-	Value = 4.0	Label = Before and after
-	Value = 5.0	Label = Insuffic info
 	Value = -1.0	Label = NA
 
 Pos. = 750	Variable = n1503	Variable label = 2M Operation which child has had MC:C1-3
@@ -12582,113 +12257,7 @@ SPSS user missing values = -1.0 thru None
 	Value = 7.0	Label = Does not attend
 	Value = -1.0	Label = NA
 
-Pos. = 1138	Variable = n2554	Variable label = 3P Reason for absence from school-MC 1:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n2554
-	Value = 1.0	Label = Cold,sore throat
-	Value = 2.0	Label = Bronchitis etc.
-	Value = 3.0	Label = Asthma, wheezy
-	Value = 4.0	Label = Headaches
-	Value = 5.0	Label = Emotional, nervy
-	Value = 6.0	Label = Bilious,diarrhea
-	Value = 7.0	Label = Dysmenorrhea
-	Value = 8.0	Label = Abdominal pain
-	Value = 9.0	Label = Infectious dis
-	Value = 10.0	Label = Accident, injury
-	Value = 11.0	Label = Convulsions,fits
-	Value = 12.0	Label = Other causes
-	Value = -1.0	Label = NA ,absent lt wk
 
-Pos. = 1139	Variable = n2555	Variable label = 3P Reason for absence from school-MC 2:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2555
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Cold,sore throat
-	Value = 2.0	Label = Bronchitis etc.
-	Value = 3.0	Label = Asthma, wheezy
-	Value = 4.0	Label = Headaches
-	Value = 5.0	Label = Emotional, nervy
-	Value = 6.0	Label = Bilious,diahrrea
-	Value = 7.0	Label = Dysmenorrhea
-	Value = 8.0	Label = Abdominal pain
-	Value = 9.0	Label = Infectious dis
-	Value = 10.0	Label = Accident, injury
-	Value = 11.0	Label = Convulsions,fits
-	Value = 12.0	Label = Other causes
-	Value = -1.0	Label = NA,no 2nd reason
-
-Pos. = 1140	Variable = n2556	Variable label = 3P Reason for absence from school-MC 3:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2556
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Cold,sore throat
-	Value = 2.0	Label = Bronchitis etc.
-	Value = 3.0	Label = Asthma, wheezy
-	Value = 4.0	Label = Headaches
-	Value = 5.0	Label = Emotional, nervy
-	Value = 6.0	Label = Bilious,diahrrea
-	Value = 7.0	Label = Dysmenorrhea
-	Value = 8.0	Label = Abdominal pain
-	Value = 9.0	Label = Infectious dis
-	Value = 10.0	Label = Accident, injury
-	Value = 11.0	Label = Convulsions,fits
-	Value = 12.0	Label = Other causes
-	Value = -1.0	Label = NA,no 3rd reason
-
-Pos. = 1141	Variable = n2557	Variable label = 3P Reason for absence from school-MC 4:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2557
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Cold,sore throat
-	Value = 2.0	Label = Bronchitis etc.
-	Value = 3.0	Label = Asthma, wheezy
-	Value = 4.0	Label = Headaches
-	Value = 5.0	Label = Emotional, nervy
-	Value = 6.0	Label = Bilious,diahrrea
-	Value = 7.0	Label = Dysmenorrhea
-	Value = 8.0	Label = Abdominal pain
-	Value = 9.0	Label = Infectious dis
-	Value = 10.0	Label = Accident, injury
-	Value = 11.0	Label = Convulsions,fits
-	Value = 12.0	Label = Other causes
-	Value = -1.0	Label = NA,no 4th reason
-
-Pos. = 1142	Variable = n2558	Variable label = 3P Reason for absence from school-MC 5:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2558
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Cold,sore throat
-	Value = 2.0	Label = Bronchitis etc.
-	Value = 3.0	Label = Asthma, wheezy
-	Value = 4.0	Label = Headaches
-	Value = 5.0	Label = Emotional, nervy
-	Value = 6.0	Label = Bilious,diahrrea
-	Value = 7.0	Label = Dysmenorrhea
-	Value = 8.0	Label = Abdominal pain
-	Value = 9.0	Label = Infectious dis
-	Value = 10.0	Label = Accident, injury
-	Value = 11.0	Label = Convulsions,fits
-	Value = 12.0	Label = Other causes
-	Value = -1.0	Label = NA,no 5th reason
-
-Pos. = 1143	Variable = n2559	Variable label = 3P Reason for absence from school-MC 6:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2559
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Cold,sore throat
-	Value = 2.0	Label = Bronchitis etc.
-	Value = 3.0	Label = Asthma, wheezy
-	Value = 4.0	Label = Headaches
-	Value = 5.0	Label = Emotional, nervy
-	Value = 6.0	Label = Bilious,diahrrea
-	Value = 7.0	Label = Dysmenorrhea
-	Value = 8.0	Label = Abdominal pain
-	Value = 9.0	Label = Infectious dis
-	Value = 10.0	Label = Accident, injury
-	Value = 11.0	Label = Convulsions,fits
-	Value = 12.0	Label = Other causes
-	Value = -1.0	Label = NA,no 6th reason
 
 Pos. = 1144	Variable = n2560	Variable label = 3P Illnesses in past 12 mths-MC 1:6
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -13205,113 +12774,6 @@ This variable is  numeric, the SPSS measurement level is ORDINAL
 	Value = 4.0	Label = Other operations
 	Value = -1.0	Label = NA
 
-Pos. = 1179	Variable = n2598	Variable label = 3P Hospital admissions,general-MC 1:4
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n2598
-	Value = 1.0	Label = No oth admission
-	Value = 2.0	Label = Asthma, wheezy
-	Value = 3.0	Label = Up respiratory
-	Value = 4.0	Label = Chest infection
-	Value = 5.0	Label = Urinary tract
-	Value = 6.0	Label = Other infection
-	Value = 7.0	Label = Convulsions
-	Value = 8.0	Label = Heart
-	Value = 9.0	Label = Abdom. not op.
-	Value = 10.0	Label = Bones or joints
-	Value = 11.0	Label = Blood disorder
-	Value = 12.0	Label = Malignant growth
-	Value = 13.0	Label = Endocrine
-	Value = 14.0	Label = Skin condition
-	Value = 15.0	Label = Eye condition
-	Value = 16.0	Label = Nutritional
-	Value = 17.0	Label = Emotional
-	Value = 18.0	Label = Other conditions
-	Value = 19.0	Label = Dental
-	Value = 20.0	Label = Menstrual
-	Value = 21.0	Label = Preg., abortion
-	Value = -1.0	Label = NA
-
-Pos. = 1180	Variable = n2599	Variable label = 3P Hospital admissions,general-MC 2:4
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2599
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = No oth admission
-	Value = 2.0	Label = Asthma,whz bronc
-	Value = 3.0	Label = Up respiraty inf
-	Value = 4.0	Label = Chest infection
-	Value = 5.0	Label = Urinary tract
-	Value = 6.0	Label = Other infection
-	Value = 7.0	Label = Convulsions
-	Value = 8.0	Label = Heart
-	Value = 9.0	Label = Abdom. not op.
-	Value = 10.0	Label = Bones or joints
-	Value = 11.0	Label = Blood disorder
-	Value = 12.0	Label = Malignant growth
-	Value = 13.0	Label = Endocrine
-	Value = 14.0	Label = Skin condition
-	Value = 15.0	Label = Eye condition
-	Value = 16.0	Label = Nutritional
-	Value = 17.0	Label = Emotional
-	Value = 18.0	Label = Other conditions
-	Value = 19.0	Label = Dental
-	Value = 20.0	Label = Menstrual
-	Value = 21.0	Label = Preg., abortion
-	Value = -1.0	Label = NA
-
-Pos. = 1181	Variable = n2600	Variable label = 3P Hospital admissions,general-MC 3:4
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2600
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = No oth admission
-	Value = 2.0	Label = Asthma,whz bronc
-	Value = 3.0	Label = Up respiraty inf
-	Value = 4.0	Label = Chest infection
-	Value = 5.0	Label = Urinary tract
-	Value = 6.0	Label = Other infection
-	Value = 7.0	Label = Convulsions
-	Value = 8.0	Label = Heart
-	Value = 9.0	Label = Abdom. not op.
-	Value = 10.0	Label = Bones or joints
-	Value = 11.0	Label = Blood disorder
-	Value = 12.0	Label = Malignant growth
-	Value = 13.0	Label = Endocrine
-	Value = 14.0	Label = Skin condition
-	Value = 15.0	Label = Eye condition
-	Value = 16.0	Label = Nutritional
-	Value = 17.0	Label = Emotional
-	Value = 18.0	Label = Other conditions
-	Value = 19.0	Label = Dental
-	Value = 20.0	Label = Menstrual
-	Value = 21.0	Label = Preg., abortion
-	Value = -1.0	Label = NA
-
-Pos. = 1182	Variable = n2601	Variable label = 3P Hospital admissions,general-MC 4:4
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2601
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = No oth admission
-	Value = 2.0	Label = Asthma,whz bronc
-	Value = 3.0	Label = Up respiraty inf
-	Value = 4.0	Label = Chest infection
-	Value = 5.0	Label = Urinary tract
-	Value = 6.0	Label = Other infection
-	Value = 7.0	Label = Convulsions
-	Value = 8.0	Label = Heart
-	Value = 9.0	Label = Abdom. not op.
-	Value = 10.0	Label = Bones or joints
-	Value = 11.0	Label = Blood disorder
-	Value = 12.0	Label = Malignant growth
-	Value = 13.0	Label = Endocrine
-	Value = 14.0	Label = Skin condition
-	Value = 15.0	Label = Eye condition
-	Value = 16.0	Label = Nutritional
-	Value = 17.0	Label = Emotional
-	Value = 18.0	Label = Other conditions
-	Value = 19.0	Label = Dental
-	Value = 20.0	Label = Menstrual
-	Value = 21.0	Label = Preg., abortion
-	Value = -1.0	Label = NA
 
 Pos. = 1183	Variable = n2602	Variable label = 3P Hosp outpatient attendnce,nt accident
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -13322,185 +12784,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 3.0	Label = Don-t know
 	Value = -1.0	Label = NA
 
-Pos. = 1184	Variable = n2603	Variable label = 3P Hosp outpatient,diagnosed cond-MC 1:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n2603
-	Value = 1.0	Label = Hearing disorder
-	Value = 2.0	Label = Allergy disorder
-	Value = 3.0	Label = Oth neurological
-	Value = 4.0	Label = Conds in N2560-5
-	Value = 5.0	Label = Asthma,whz bronc
-	Value = 6.0	Label = Up respiraty inf
-	Value = 7.0	Label = Chest infections
-	Value = 8.0	Label = Urinary tract
-	Value = 9.0	Label = Other infections
-	Value = 10.0	Label = Convulsions
-	Value = 11.0	Label = Heart condition
-	Value = 12.0	Label = Abdom. not op.
-	Value = 13.0	Label = Bones and joints
-	Value = 14.0	Label = Blood discorders
-	Value = 15.0	Label = Malignant growth
-	Value = 16.0	Label = Endocrine
-	Value = 17.0	Label = Skin conditions
-	Value = 18.0	Label = Eye codition
-	Value = 19.0	Label = Nutrition
-	Value = 20.0	Label = Emotional
-	Value = 21.0	Label = Other conditions
-	Value = 22.0	Label = Dental
-	Value = 23.0	Label = Menstrual
-	Value = 24.0	Label = Preg ,abortion
-	Value = -1.0	Label = NA
-
-Pos. = 1185	Variable = n2604	Variable label = 3P Hosp outpatient,diagnosed cond-MC 2:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2604
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Hearing disorder
-	Value = 2.0	Label = Allergy disorder
-	Value = 3.0	Label = Oth neurological
-	Value = 4.0	Label = Conds in N2560-5
-	Value = 5.0	Label = Asthma,whz bronc
-	Value = 6.0	Label = Up respiraty inf
-	Value = 7.0	Label = Chest infections
-	Value = 8.0	Label = Urinary tract
-	Value = 9.0	Label = Other infections
-	Value = 10.0	Label = Convulsions
-	Value = 11.0	Label = Heart condition
-	Value = 12.0	Label = Abdom. not op.
-	Value = 13.0	Label = Bones and joints
-	Value = 14.0	Label = Blood discorders
-	Value = 15.0	Label = Malignant growth
-	Value = 16.0	Label = Endocrine
-	Value = 17.0	Label = Skin conditions
-	Value = 18.0	Label = Eye codition
-	Value = 19.0	Label = Nutrition
-	Value = 20.0	Label = Emotional
-	Value = 21.0	Label = Other conditions
-	Value = 22.0	Label = Dental
-	Value = 23.0	Label = Menstrual
-	Value = 24.0	Label = Preg ,abortion
-	Value = -1.0	Label = NA
-
-Pos. = 1186	Variable = n2605	Variable label = 3P Hosp outpatient,diagnosed cond-MC 3:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2605
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Hearing disorder
-	Value = 2.0	Label = Allergy disorder
-	Value = 3.0	Label = Oth neurological
-	Value = 4.0	Label = Conds in N2560-5
-	Value = 5.0	Label = Asthma,whz bronc
-	Value = 6.0	Label = Up respiraty inf
-	Value = 7.0	Label = Chest infections
-	Value = 8.0	Label = Urinary tract
-	Value = 9.0	Label = Other infections
-	Value = 10.0	Label = Convulsions
-	Value = 11.0	Label = Heart condition
-	Value = 12.0	Label = Abdom. not op.
-	Value = 13.0	Label = Bones and joints
-	Value = 14.0	Label = Blood discorders
-	Value = 15.0	Label = Malignant growth
-	Value = 16.0	Label = Endocrine
-	Value = 17.0	Label = Skin conditions
-	Value = 18.0	Label = Eye codition
-	Value = 19.0	Label = Nutrition
-	Value = 20.0	Label = Emotional
-	Value = 21.0	Label = Other conditions
-	Value = 22.0	Label = Dental
-	Value = 23.0	Label = Menstrual
-	Value = 24.0	Label = Preg ,abortion
-	Value = -1.0	Label = NA
-
-Pos. = 1187	Variable = n2606	Variable label = 3P Hosp outpatient,diagnosed cond-MC 4:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2606
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Hearing disorder
-	Value = 2.0	Label = Allergy disorder
-	Value = 3.0	Label = Oth neurological
-	Value = 4.0	Label = Conds in N2560-5
-	Value = 5.0	Label = Asthma,whz bronc
-	Value = 6.0	Label = Up respiraty inf
-	Value = 7.0	Label = Chest infections
-	Value = 8.0	Label = Urinary tract
-	Value = 9.0	Label = Other infections
-	Value = 10.0	Label = Convulsions
-	Value = 11.0	Label = Heart condition
-	Value = 12.0	Label = Abdom. not op.
-	Value = 13.0	Label = Bones and joints
-	Value = 14.0	Label = Blood discorders
-	Value = 15.0	Label = Malignant growth
-	Value = 16.0	Label = Endocrine
-	Value = 17.0	Label = Skin conditions
-	Value = 18.0	Label = Eye codition
-	Value = 19.0	Label = Nutrition
-	Value = 20.0	Label = Emotional
-	Value = 21.0	Label = Other conditions
-	Value = 22.0	Label = Dental
-	Value = 23.0	Label = Menstrual
-	Value = 24.0	Label = Preg ,abortion
-	Value = -1.0	Label = NA
-
-Pos. = 1188	Variable = n2607	Variable label = 3P Hosp outpatient,diagnosed cond-MC 5:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2607
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Hearing disorder
-	Value = 2.0	Label = Allergy disorder
-	Value = 3.0	Label = Oth neurological
-	Value = 4.0	Label = Conds in N2560-5
-	Value = 5.0	Label = Asthma,whz bronc
-	Value = 6.0	Label = Up respiraty inf
-	Value = 7.0	Label = Chest infections
-	Value = 8.0	Label = Urinary tract
-	Value = 9.0	Label = Other infections
-	Value = 10.0	Label = Convulsions
-	Value = 11.0	Label = Heart condition
-	Value = 12.0	Label = Abdom. not op.
-	Value = 13.0	Label = Bones and joints
-	Value = 14.0	Label = Blood discorders
-	Value = 15.0	Label = Malignant growth
-	Value = 16.0	Label = Endocrine
-	Value = 17.0	Label = Skin conditions
-	Value = 18.0	Label = Eye codition
-	Value = 19.0	Label = Nutrition
-	Value = 20.0	Label = Emotional
-	Value = 21.0	Label = Other conditions
-	Value = 22.0	Label = Dental
-	Value = 23.0	Label = Menstrual
-	Value = 24.0	Label = Preg ,abortion
-	Value = -1.0	Label = NA
-
-Pos. = 1189	Variable = n2608	Variable label = 3P Hosp outpatient,diagnosed cond-MC 6:6
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2608
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Hearing disorder
-	Value = 2.0	Label = Allergy disorder
-	Value = 3.0	Label = Oth neurological
-	Value = 4.0	Label = Conds in N2560-5
-	Value = 5.0	Label = Asthma,whz bronc
-	Value = 6.0	Label = Up respiraty inf
-	Value = 7.0	Label = Chest infections
-	Value = 8.0	Label = Urinary tract
-	Value = 9.0	Label = Other infections
-	Value = 10.0	Label = Convulsions
-	Value = 11.0	Label = Heart condition
-	Value = 12.0	Label = Abdom. not op.
-	Value = 13.0	Label = Bones and joints
-	Value = 14.0	Label = Blood discorders
-	Value = 15.0	Label = Malignant growth
-	Value = 16.0	Label = Endocrine
-	Value = 17.0	Label = Skin conditions
-	Value = 18.0	Label = Eye codition
-	Value = 19.0	Label = Nutrition
-	Value = 20.0	Label = Emotional
-	Value = 21.0	Label = Other conditions
-	Value = 22.0	Label = Dental
-	Value = 23.0	Label = Menstrual
-	Value = 24.0	Label = Preg ,abortion
-	Value = -1.0	Label = NA
 
 Pos. = 1190	Variable = n2609	Variable label = 3P Vision-MC 1:3
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -13554,41 +12837,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 3.0	Label = Don-t know
 	Value = -1.0	Label = NA
 
-Pos. = 1195	Variable = n2614	Variable label = 3P Convulsions,fits-unconsciousness
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n2614
-	Value = 1.0	Label = Yes
-	Value = 2.0	Label = No
-	Value = 3.0	Label = Don-t know
-	Value = -1.0	Label = NA
-
-Pos. = 1196	Variable = n2615	Variable label = 3P When convulsions,fits 1st occured
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n2615
-	Value = 1.0	Label = Before 1 year
-	Value = 2.0	Label = Between 1&2 yrs
-	Value = 3.0	Label = Between 2&5 yrs
-	Value = 4.0	Label = Between 5&7 yrs
-	Value = 5.0	Label = Between 7&11 yrs
-	Value = 6.0	Label = Since 11th year
-	Value = 7.0	Label = Don-t know
-	Value = -1.0	Label = NA,no convulsion
-
-Pos. = 1197	Variable = n2616	Variable label = 3P Convulsions-most recent occurrence
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n2616
-	Value = 1.0	Label = Before 1 year
-	Value = 2.0	Label = Between 1&2 yrs
-	Value = 3.0	Label = Between 2&5 yrs
-	Value = 4.0	Label = Between 5&7 yrs
-	Value = 5.0	Label = Between 7&11 yrs
-	Value = 6.0	Label = 11+, nt past yr
-	Value = 7.0	Label = In past year
-	Value = 8.0	Label = DK age
-	Value = -1.0	Label = NA,no convulsion
 
 Pos. = 1198	Variable = n2617	Variable label = 3P Ever asthma or wheezy bronchitis
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -14197,130 +13445,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 3.0	Label = Don-t know
 	Value = -1.0	Label = NA
 
-Pos. = 1244	Variable = n2663	Variable label = 3P Nature of child-s disability-MC 1:5
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n2663
-	Value = 1.0	Label = Congen malform
-	Value = 2.0	Label = Visual defect
-	Value = 3.0	Label = Hearing defect
-	Value = 4.0	Label = Ment retardation
-	Value = 5.0	Label = Musc. dystrophy
-	Value = 6.0	Label = Gen.motor hcap
-	Value = 7.0	Label = Epilepsy
-	Value = 8.0	Label = Psychiatric
-	Value = 9.0	Label = Speech defect
-	Value = 10.0	Label = Asthma
-	Value = 11.0	Label = Oth chest cond
-	Value = 12.0	Label = Alimentary
-	Value = 13.0	Label = Chron bone,joint
-	Value = 14.0	Label = Heart condition
-	Value = 15.0	Label = Kidney, urinary
-	Value = 16.0	Label = Malignancy
-	Value = 17.0	Label = Diabetes
-	Value = 18.0	Label = Skin disorder
-	Value = 19.0	Label = Other handicap
-	Value = -1.0	Label = NA,no handicp
-
-Pos. = 1245	Variable = n2664	Variable label = 3P Nature of child-s disability-MC 2:5
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2664
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Congen malform
-	Value = 2.0	Label = Visual defect
-	Value = 3.0	Label = Hearing defect
-	Value = 4.0	Label = Ment retardation
-	Value = 5.0	Label = Musc. dystrophy
-	Value = 6.0	Label = Gen.motor hcap
-	Value = 7.0	Label = Epilepsy
-	Value = 8.0	Label = Psychiatric
-	Value = 9.0	Label = Speech defect
-	Value = 10.0	Label = Asthma
-	Value = 11.0	Label = Oth chest cond
-	Value = 12.0	Label = Alimentary
-	Value = 13.0	Label = Chron bone,joint
-	Value = 14.0	Label = Heart condition
-	Value = 15.0	Label = Kidney, urinary
-	Value = 16.0	Label = Malignancy
-	Value = 17.0	Label = Diabetes
-	Value = 18.0	Label = Skin disorder
-	Value = 19.0	Label = Other handicap
-	Value = -1.0	Label = NA,no handicp
-
-Pos. = 1246	Variable = n2665	Variable label = 3P Nature of child-s disability-MC 3:5
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2665
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Congen malform
-	Value = 2.0	Label = Visual defect
-	Value = 3.0	Label = Hearing defect
-	Value = 4.0	Label = Ment retardation
-	Value = 5.0	Label = Musc. dystrophy
-	Value = 6.0	Label = Gen.motor hcap
-	Value = 7.0	Label = Epilepsy
-	Value = 8.0	Label = Psychiatric
-	Value = 9.0	Label = Speech defect
-	Value = 10.0	Label = Asthma
-	Value = 11.0	Label = Oth chest cond
-	Value = 12.0	Label = Alimentary
-	Value = 13.0	Label = Chron bone,joint
-	Value = 14.0	Label = Heart condition
-	Value = 15.0	Label = Kidney, urinary
-	Value = 16.0	Label = Malignancy
-	Value = 17.0	Label = Diabetes
-	Value = 18.0	Label = Skin disorder
-	Value = 19.0	Label = Other handicap
-	Value = -1.0	Label = NA,no handicp
-
-Pos. = 1247	Variable = n2666	Variable label = 3P Nature of child-s disability-MC 4:5
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2666
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Congen malform
-	Value = 2.0	Label = Visual defect
-	Value = 3.0	Label = Hearing defect
-	Value = 4.0	Label = Ment retardation
-	Value = 5.0	Label = Musc. dystrophy
-	Value = 6.0	Label = Gen.motor hcap
-	Value = 7.0	Label = Epilepsy
-	Value = 8.0	Label = Psychiatric
-	Value = 9.0	Label = Speech defect
-	Value = 10.0	Label = Asthma
-	Value = 11.0	Label = Oth chest cond
-	Value = 12.0	Label = Alimentary
-	Value = 13.0	Label = Chron bone,joint
-	Value = 14.0	Label = Heart condition
-	Value = 15.0	Label = Kidney, urinary
-	Value = 16.0	Label = Malignancy
-	Value = 17.0	Label = Diabetes
-	Value = 18.0	Label = Skin disorder
-	Value = 19.0	Label = Other handicap
-	Value = -1.0	Label = NA,no handicp
-
-Pos. = 1248	Variable = n2667	Variable label = 3P Nature of child-s disability-MC 5:5
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n2667
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Congen malform
-	Value = 2.0	Label = Visual defect
-	Value = 3.0	Label = Hearing defect
-	Value = 4.0	Label = Ment retardation
-	Value = 5.0	Label = Musc. dystrophy
-	Value = 6.0	Label = Gen.motor hcap
-	Value = 7.0	Label = Epilepsy
-	Value = 8.0	Label = Psychiatric
-	Value = 9.0	Label = Speech defect
-	Value = 10.0	Label = Asthma
-	Value = 11.0	Label = Oth chest cond
-	Value = 12.0	Label = Alimentary
-	Value = 13.0	Label = Chron bone,joint
-	Value = 14.0	Label = Heart condition
-	Value = 15.0	Label = Kidney, urinary
-	Value = 16.0	Label = Malignancy
-	Value = 17.0	Label = Diabetes
-	Value = 18.0	Label = Skin disorder
-	Value = 19.0	Label = Other handicap
-	Value = -1.0	Label = NA,no handicp
 
 Pos. = 1249	Variable = n1737	Variable label = 3P Soc class of dad-manual v non-manual (GRO 1970)
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -14415,60 +13539,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 6.0	Label = Dont know
 	Value = -1.0	Label = NA
 
-Pos. = 1258	Variable = n1893	Variable label = 3M Category of child's handicap MC1:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1893
-	Value = 1.0	Label = Blind
-	Value = 2.0	Label = Partial sighted
-	Value = 3.0	Label = Deaf
-	Value = 4.0	Label = Partial hearing
-	Value = 5.0	Label = ESN
-	Value = 6.0	Label = ESN-former SSN-
-	Value = 7.0	Label = Unfit for school
-	Value = 8.0	Label = Epileptic
-	Value = 9.0	Label = Maladjusted
-	Value = 10.0	Label = Phys handicapped
-	Value = 11.0	Label = Speech defect
-	Value = 12.0	Label = Delicate
-	Value = -1.0	Label = NA
-
-Pos. = 1259	Variable = n1894	Variable label = 3M Category of child's handicap MC2:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n1894
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Blind
-	Value = 2.0	Label = Partial sighted
-	Value = 3.0	Label = Deaf
-	Value = 4.0	Label = Partial hearing
-	Value = 5.0	Label = ESN
-	Value = 6.0	Label = ESN-former SSN-
-	Value = 7.0	Label = Unfit for school
-	Value = 8.0	Label = Epileptic
-	Value = 9.0	Label = Maladjusted
-	Value = 10.0	Label = Phys handicapped
-	Value = 11.0	Label = Speech defect
-	Value = 12.0	Label = Delicate
-	Value = -1.0	Label = NA
-
-Pos. = 1260	Variable = n1895	Variable label = 3M Category of child's handicap MC3:3
-This variable is  numeric, the SPSS measurement level is ORDINAL
-	Value label information for n1895
-	Value = 0.0	Label = No other
-	Value = 1.0	Label = Blind
-	Value = 2.0	Label = Partial sighted
-	Value = 3.0	Label = Deaf
-	Value = 4.0	Label = Partial hearing
-	Value = 5.0	Label = ESN
-	Value = 6.0	Label = ESN-former SSN-
-	Value = 7.0	Label = Unfit for school
-	Value = 8.0	Label = Epileptic
-	Value = 9.0	Label = Maladjusted
-	Value = 10.0	Label = Phys handicapped
-	Value = 11.0	Label = Speech defect
-	Value = 12.0	Label = Delicate
-	Value = -1.0	Label = NA
-
 Pos. = 1261	Variable = n1896	Variable label = 3M Was IQ recorded in SET assessment
 This variable is  numeric, the SPSS measurement level is ORDINAL
 SPSS user missing values = -1.0 thru None
@@ -14541,42 +13611,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 3.0	Label = Dont know
 	Value = -1.0	Label = NA
 
-Pos. = 1268	Variable = n1904	Variable label = 3M Reason for hosp admiss last 12 mnths
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1904
-	Value = 1.0	Label = Injury to head
-	Value = 2.0	Label = Head inj+concuss
-	Value = 3.0	Label = Injury uppr limb
-	Value = 4.0	Label = Injury lowr limb
-	Value = 5.0	Label = Other injury
-	Value = 6.0	Label = Cond bone,joint
-	Value = 7.0	Label = Asthma
-	Value = 8.0	Label = Oth respiratory
-	Value = 9.0	Label = Appendicitis
-	Value = 10.0	Label = Other abdominal
-	Value = 11.0	Label = Urogenital
-	Value = 12.0	Label = Heart condition
-	Value = 13.0	Label = Haematological
-	Value = 14.0	Label = Skin condition
-	Value = 15.0	Label = Ment retardation
-	Value = 16.0	Label = Beh,emotionl dis
-	Value = 17.0	Label = Epilepsy
-	Value = 18.0	Label = Oth CNS cond
-	Value = 19.0	Label = Diabetes
-	Value = 20.0	Label = Sensory defect
-	Value = 21.0	Label = Infectious dis
-	Value = 22.0	Label = Tonsillectomy
-	Value = 23.0	Label = Hernia op
-	Value = 24.0	Label = Abortion,preg
-	Value = 25.0	Label = Dental
-	Value = 26.0	Label = Obesity
-	Value = 27.0	Label = E.N.T
-	Value = 28.0	Label = Dysmenorrhea
-	Value = 29.0	Label = Drug overdose
-	Value = 30.0	Label = Other condition
-	Value = 99.0	Label = Any other condition
-	Value = -1.0	Label = NA
 
 Pos. = 1269	Variable = n1905	Variable label = 3M Hosp accident,casualty dept last yr
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -14631,42 +13665,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 3.0	Label = Dont know
 	Value = -1.0	Label = NA
 
-Pos. = 1272	Variable = n1910	Variable label = 3M Reason hosp outpatient last yr
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n1910
-	Value = 1.0	Label = Investigation
-	Value = 2.0	Label = Obesity
-	Value = 3.0	Label = Diabetic dis
-	Value = 4.0	Label = Inj bone,joint
-	Value = 5.0	Label = Other injury
-	Value = 6.0	Label = Asthma
-	Value = 7.0	Label = Hay fev,allergy
-	Value = 8.0	Label = Oth respiratory
-	Value = 9.0	Label = Vision,eye cond
-	Value = 10.0	Label = Hearing
-	Value = 11.0	Label = E.N.T. condition
-	Value = 12.0	Label = Appendicitis
-	Value = 13.0	Label = Other abdominal
-	Value = 14.0	Label = Heart condition
-	Value = 15.0	Label = Haematological
-	Value = 16.0	Label = Skin condition
-	Value = 17.0	Label = Epilepsy
-	Value = 18.0	Label = Oth CNS disorder
-	Value = 19.0	Label = Diabetes
-	Value = 20.0	Label = Urogenital
-	Value = 21.0	Label = Beh,emotionl dis
-	Value = 22.0	Label = Ment retardation
-	Value = 23.0	Label = Psychosomatic
-	Value = 24.0	Label = Foreign body
-	Value = 25.0	Label = Dental
-	Value = 26.0	Label = Dysmenorrhea
-	Value = 27.0	Label = Minor operation
-	Value = 28.0	Label = Pregnancy
-	Value = 29.0	Label = Migraine
-	Value = 30.0	Label = Other condition
-	Value = 99.0	Label = Any other condition
-	Value = -1.0	Label = NA
 
 Pos. = 1273	Variable = n1911	Variable label = 3M G.P.,health centre attendance-last yr
 This variable is  numeric, the SPSS measurement level is ORDINAL
@@ -15794,18 +14792,6 @@ SPSS user missing values = -1.0 thru None
 	Value = 7.0	Label = Cond,DK degree
 	Value = -1.0	Label = NA
 
-Pos. = 1357	Variable = n2032	Variable label = 3M Epilepsy
-This variable is  numeric, the SPSS measurement level is ORDINAL
-SPSS user missing values = -1.0 thru None
-	Value label information for n2032
-	Value = 1.0	Label = No abnormality
-	Value = 2.0	Label = Cond uncertain
-	Value = 3.0	Label = Cond,no handcp
-	Value = 4.0	Label = Slight handicap
-	Value = 5.0	Label = Moderate handicp
-	Value = 6.0	Label = Severe handicap
-	Value = 7.0	Label = Cond,DK degree
-	Value = -1.0	Label = NA
 
 Pos. = 1358	Variable = n2033	Variable label = 3M CNS condition,other than epilepsy
 This variable is  numeric, the SPSS measurement level is ORDINAL
